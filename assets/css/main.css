@@ -2619,7 +2619,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 2.5rem 0;
-			width: 100%;
+			width: 80vw;
 		}
 
 			.image.fit:first-child {
@@ -2627,13 +2627,13 @@ input, select, textarea {
 			}
 
 			.image.fit img {
-				width: 100%;
+				width: 80vw;
 			}
 
 		.image.main {
 			display: block;
 			margin: 4rem 0;
-			width: 100%;
+			width: 80vw;
 		}
 
 			.image.main:first-child {
@@ -2641,7 +2641,7 @@ input, select, textarea {
 			}
 
 			.image.main img {
-				width: 100%;
+				width: 80vw;
 			}
 
 		@media screen and (max-width: 736px) {
